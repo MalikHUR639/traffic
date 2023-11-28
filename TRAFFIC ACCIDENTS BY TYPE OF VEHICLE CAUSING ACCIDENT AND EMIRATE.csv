@@ -1,0 +1,316 @@
+Year,Emirate_ar,Emirate_en,Type_of_Vehicle_ar,Type_of_Vehicle_en,Total_accidents
+2001, أبو ظـــــبي ,Abu  Dhabi,مركبة خصوصية,Private Saloon,2537
+2001, دبـــــــــــــي,Dubai,مركبة خصوصية,Private Saloon,931
+2001, الشــــارقــــة,Sharjah,مركبة خصوصية,Private Saloon,1340
+2001, عجمــــــــــان,Ajman,مركبة خصوصية,Private Saloon,297
+2001, أم القيويــــن,Umm Al - Qiwain,مركبة خصوصية,Private Saloon,285
+2001, رأس الخيمــة,Ras Al - Khaima,مركبة خصوصية,Private Saloon,780
+2001, الفجيــــــــــرة,Fujeira,مركبة خصوصية,Private Saloon,161
+2001, أبو ظـــــبي ,Abu  Dhabi,مركبة أجرة,Taxi,89
+2001, دبـــــــــــــي,Dubai,مركبة أجرة,Taxi,96
+2001, الشــــارقــــة,Sharjah,مركبة أجرة,Taxi,105
+2001, عجمــــــــــان,Ajman,مركبة أجرة,Taxi,2
+2001, أم القيويــــن,Umm Al - Qiwain,مركبة أجرة,Taxi,0
+2001, رأس الخيمــة,Ras Al - Khaima,مركبة أجرة,Taxi,45
+2001, الفجيــــــــــرة,Fujeira,مركبة أجرة,Taxi,11
+2001, أبو ظـــــبي ,Abu  Dhabi,حافلة خفيفة,Light Bus,47
+2001, دبـــــــــــــي,Dubai,حافلة خفيفة,Light Bus,34
+2001, الشــــارقــــة,Sharjah,حافلة خفيفة,Light Bus,18
+2001, عجمــــــــــان,Ajman,حافلة خفيفة,Light Bus,0
+2001, أم القيويــــن,Umm Al - Qiwain,حافلة خفيفة,Light Bus,4
+2001, رأس الخيمــة,Ras Al - Khaima,حافلة خفيفة,Light Bus,17
+2001, الفجيــــــــــرة,Fujeira,حافلة خفيفة,Light Bus,1
+2001, أبو ظـــــبي ,Abu  Dhabi,حافلة ثقيلة,Heavy Bus,9
+2001, دبـــــــــــــي,Dubai,حافلة ثقيلة,Heavy Bus,11
+2001, الشــــارقــــة,Sharjah,حافلة ثقيلة,Heavy Bus,0
+2001, عجمــــــــــان,Ajman,حافلة ثقيلة,Heavy Bus,0
+2001, أم القيويــــن,Umm Al - Qiwain,حافلة ثقيلة,Heavy Bus,1
+2001, رأس الخيمــة,Ras Al - Khaima,حافلة ثقيلة,Heavy Bus,11
+2001, الفجيــــــــــرة,Fujeira,حافلة ثقيلة,Heavy Bus,2
+2001, أبو ظـــــبي ,Abu  Dhabi,شاحنة خفيفة,Light Goods Vehicle,294
+2001, دبـــــــــــــي,Dubai,شاحنة خفيفة,Light Goods Vehicle,103
+2001, الشــــارقــــة,Sharjah,شاحنة خفيفة,Light Goods Vehicle,52
+2001, عجمــــــــــان,Ajman,شاحنة خفيفة,Light Goods Vehicle,0
+2001, أم القيويــــن,Umm Al - Qiwain,شاحنة خفيفة,Light Goods Vehicle,2
+2001, رأس الخيمــة,Ras Al - Khaima,شاحنة خفيفة,Light Goods Vehicle,123
+2001, الفجيــــــــــرة,Fujeira,شاحنة خفيفة,Light Goods Vehicle,21
+2001, أبو ظـــــبي ,Abu  Dhabi,شاحنة ثقيلة,Heavy Goods Vehicle,440
+2001, دبـــــــــــــي,Dubai,شاحنة ثقيلة,Heavy Goods Vehicle,54
+2001, الشــــارقــــة,Sharjah,شاحنة ثقيلة,Heavy Goods Vehicle,66
+2001, عجمــــــــــان,Ajman,شاحنة ثقيلة,Heavy Goods Vehicle,2
+2001, أم القيويــــن,Umm Al - Qiwain,شاحنة ثقيلة,Heavy Goods Vehicle,7
+2001, رأس الخيمــة,Ras Al - Khaima,شاحنة ثقيلة,Heavy Goods Vehicle,52
+2001, الفجيــــــــــرة,Fujeira,شاحنة ثقيلة,Heavy Goods Vehicle,14
+2001, أبو ظـــــبي ,Abu  Dhabi,أخرى (ثقيل),Other Heavy,266
+2001, دبـــــــــــــي,Dubai,أخرى (ثقيل),Other Heavy,12
+2001, الشــــارقــــة,Sharjah,أخرى (ثقيل),Other Heavy,19
+2001, عجمــــــــــان,Ajman,أخرى (ثقيل),Other Heavy,0
+2001, أم القيويــــن,Umm Al - Qiwain,أخرى (ثقيل),Other Heavy,0
+2001, رأس الخيمــة,Ras Al - Khaima,أخرى (ثقيل),Other Heavy,0
+2001, الفجيــــــــــرة,Fujeira,أخرى (ثقيل),Other Heavy,1
+2001, أبو ظـــــبي ,Abu  Dhabi,دراجة هوائية,Bicycle,122
+2001, دبـــــــــــــي,Dubai,دراجة هوائية,Bicycle,21
+2001, الشــــارقــــة,Sharjah,دراجة هوائية,Bicycle,26
+2001, عجمــــــــــان,Ajman,دراجة هوائية,Bicycle,5
+2001, أم القيويــــن,Umm Al - Qiwain,دراجة هوائية,Bicycle,2
+2001, رأس الخيمــة,Ras Al - Khaima,دراجة هوائية,Bicycle,6
+2001, الفجيــــــــــرة,Fujeira,دراجة هوائية,Bicycle,0
+2001, أبو ظـــــبي ,Abu  Dhabi,دراجة نارية,Motorcycle,96
+2001, دبـــــــــــــي,Dubai,دراجة نارية,Motorcycle,35
+2001, الشــــارقــــة,Sharjah,دراجة نارية,Motorcycle,24
+2001, عجمــــــــــان,Ajman,دراجة نارية,Motorcycle,3
+2001, أم القيويــــن,Umm Al - Qiwain,دراجة نارية,Motorcycle,3
+2001, رأس الخيمــة,Ras Al - Khaima,دراجة نارية,Motorcycle,21
+2001, الفجيــــــــــرة,Fujeira,دراجة نارية,Motorcycle,6
+2002, أبو ظـــــبي ,Abu  Dhabi,مركبة خصوصية,Private Saloon,1883
+2002, دبـــــــــــــي,Dubai,مركبة خصوصية,Private Saloon,965
+2002, الشــــارقــــة,Sharjah,مركبة خصوصية,Private Saloon,1386
+2002, عجمــــــــــان,Ajman,مركبة خصوصية,Private Saloon,232
+2002, أم القيويــــن,Umm Al - Qiwain,مركبة خصوصية,Private Saloon,270
+2002, رأس الخيمــة,Ras Al - Khaima,مركبة خصوصية,Private Saloon,809
+2002, الفجيــــــــــرة,Fujeira,مركبة خصوصية,Private Saloon,162
+2002, أبو ظـــــبي ,Abu  Dhabi,مركبة أجرة,Taxi,59
+2002, دبـــــــــــــي,Dubai,مركبة أجرة,Taxi,65
+2002, الشــــارقــــة,Sharjah,مركبة أجرة,Taxi,92
+2002, عجمــــــــــان,Ajman,مركبة أجرة,Taxi,27
+2002, أم القيويــــن,Umm Al - Qiwain,مركبة أجرة,Taxi,0
+2002, رأس الخيمــة,Ras Al - Khaima,مركبة أجرة,Taxi,37
+2002, الفجيــــــــــرة,Fujeira,مركبة أجرة,Taxi,0
+2002, أبو ظـــــبي ,Abu  Dhabi,حافلة خفيفة,Light Bus,66
+2002, دبـــــــــــــي,Dubai,حافلة خفيفة,Light Bus,37
+2002, الشــــارقــــة,Sharjah,حافلة خفيفة,Light Bus,7
+2002, عجمــــــــــان,Ajman,حافلة خفيفة,Light Bus,1
+2002, أم القيويــــن,Umm Al - Qiwain,حافلة خفيفة,Light Bus,5
+2002, رأس الخيمــة,Ras Al - Khaima,حافلة خفيفة,Light Bus,19
+2002, الفجيــــــــــرة,Fujeira,حافلة خفيفة,Light Bus,2
+2002, أبو ظـــــبي ,Abu  Dhabi,حافلة ثقيلة,Heavy Bus,40
+2002, دبـــــــــــــي,Dubai,حافلة ثقيلة,Heavy Bus,17
+2002, الشــــارقــــة,Sharjah,حافلة ثقيلة,Heavy Bus,6
+2002, عجمــــــــــان,Ajman,حافلة ثقيلة,Heavy Bus,0
+2002, أم القيويــــن,Umm Al - Qiwain,حافلة ثقيلة,Heavy Bus,1
+2002, رأس الخيمــة,Ras Al - Khaima,حافلة ثقيلة,Heavy Bus,5
+2002, الفجيــــــــــرة,Fujeira,حافلة ثقيلة,Heavy Bus,3
+2002, أبو ظـــــبي ,Abu  Dhabi,شاحنة خفيفة,Light Goods Vehicle,313
+2002, دبـــــــــــــي,Dubai,شاحنة خفيفة,Light Goods Vehicle,79
+2002, الشــــارقــــة,Sharjah,شاحنة خفيفة,Light Goods Vehicle,40
+2002, عجمــــــــــان,Ajman,شاحنة خفيفة,Light Goods Vehicle,0
+2002, أم القيويــــن,Umm Al - Qiwain,شاحنة خفيفة,Light Goods Vehicle,8
+2002, رأس الخيمــة,Ras Al - Khaima,شاحنة خفيفة,Light Goods Vehicle,110
+2002, الفجيــــــــــرة,Fujeira,شاحنة خفيفة,Light Goods Vehicle,21
+2002, أبو ظـــــبي ,Abu  Dhabi,شاحنة ثقيلة,Heavy Goods Vehicle,550
+2002, دبـــــــــــــي,Dubai,شاحنة ثقيلة,Heavy Goods Vehicle,66
+2002, الشــــارقــــة,Sharjah,شاحنة ثقيلة,Heavy Goods Vehicle,79
+2002, عجمــــــــــان,Ajman,شاحنة ثقيلة,Heavy Goods Vehicle,0
+2002, أم القيويــــن,Umm Al - Qiwain,شاحنة ثقيلة,Heavy Goods Vehicle,13
+2002, رأس الخيمــة,Ras Al - Khaima,شاحنة ثقيلة,Heavy Goods Vehicle,78
+2002, الفجيــــــــــرة,Fujeira,شاحنة ثقيلة,Heavy Goods Vehicle,30
+2002, أبو ظـــــبي ,Abu  Dhabi,أخرى (ثقيل),Other Heavy,32
+2002, دبـــــــــــــي,Dubai,أخرى (ثقيل),Other Heavy,10
+2002, الشــــارقــــة,Sharjah,أخرى (ثقيل),Other Heavy,9
+2002, عجمــــــــــان,Ajman,أخرى (ثقيل),Other Heavy,0
+2002, أم القيويــــن,Umm Al - Qiwain,أخرى (ثقيل),Other Heavy,0
+2002, رأس الخيمــة,Ras Al - Khaima,أخرى (ثقيل),Other Heavy,0
+2002, الفجيــــــــــرة,Fujeira,أخرى (ثقيل),Other Heavy,11
+2002, أبو ظـــــبي ,Abu  Dhabi,دراجة هوائية,Bicycle,112
+2002, دبـــــــــــــي,Dubai,دراجة هوائية,Bicycle,28
+2002, الشــــارقــــة,Sharjah,دراجة هوائية,Bicycle,17
+2002, عجمــــــــــان,Ajman,دراجة هوائية,Bicycle,6
+2002, أم القيويــــن,Umm Al - Qiwain,دراجة هوائية,Bicycle,4
+2002, رأس الخيمــة,Ras Al - Khaima,دراجة هوائية,Bicycle,3
+2002, الفجيــــــــــرة,Fujeira,دراجة هوائية,Bicycle,1
+2002, أبو ظـــــبي ,Abu  Dhabi,دراجة نارية,Motorcycle,86
+2002, دبـــــــــــــي,Dubai,دراجة نارية,Motorcycle,44
+2002, الشــــارقــــة,Sharjah,دراجة نارية,Motorcycle,24
+2002, عجمــــــــــان,Ajman,دراجة نارية,Motorcycle,1
+2002, أم القيويــــن,Umm Al - Qiwain,دراجة نارية,Motorcycle,6
+2002, رأس الخيمــة,Ras Al - Khaima,دراجة نارية,Motorcycle,33
+2002, الفجيــــــــــرة,Fujeira,دراجة نارية,Motorcycle,8
+2003, أبو ظـــــبي ,Abu  Dhabi,مركبة خصوصية,Private Saloon,2314
+2003, دبـــــــــــــي,Dubai,مركبة خصوصية,Private Saloon,1052
+2003, الشــــارقــــة,Sharjah,مركبة خصوصية,Private Saloon,1756
+2003, عجمــــــــــان,Ajman,مركبة خصوصية,Private Saloon,235
+2003, أم القيويــــن,Umm Al - Qiwain,مركبة خصوصية,Private Saloon,211
+2003, رأس الخيمــة,Ras Al - Khaima,مركبة خصوصية,Private Saloon,660
+2003, الفجيــــــــــرة,Fujeira,مركبة خصوصية,Private Saloon,164
+2003, أبو ظـــــبي ,Abu  Dhabi,مركبة أجرة,Taxi,32
+2003, دبـــــــــــــي,Dubai,مركبة أجرة,Taxi,38
+2003, الشــــارقــــة,Sharjah,مركبة أجرة,Taxi,141
+2003, عجمــــــــــان,Ajman,مركبة أجرة,Taxi,23
+2003, أم القيويــــن,Umm Al - Qiwain,مركبة أجرة,Taxi,0
+2003, رأس الخيمــة,Ras Al - Khaima,مركبة أجرة,Taxi,20
+2003, الفجيــــــــــرة,Fujeira,مركبة أجرة,Taxi,0
+2003, أبو ظـــــبي ,Abu  Dhabi,حافلة خفيفة,Light Bus,53
+2003, دبـــــــــــــي,Dubai,حافلة خفيفة,Light Bus,49
+2003, الشــــارقــــة,Sharjah,حافلة خفيفة,Light Bus,20
+2003, عجمــــــــــان,Ajman,حافلة خفيفة,Light Bus,3
+2003, أم القيويــــن,Umm Al - Qiwain,حافلة خفيفة,Light Bus,2
+2003, رأس الخيمــة,Ras Al - Khaima,حافلة خفيفة,Light Bus,7
+2003, الفجيــــــــــرة,Fujeira,حافلة خفيفة,Light Bus,3
+2003, أبو ظـــــبي ,Abu  Dhabi,حافلة ثقيلة,Heavy Bus,32
+2003, دبـــــــــــــي,Dubai,حافلة ثقيلة,Heavy Bus,38
+2003, الشــــارقــــة,Sharjah,حافلة ثقيلة,Heavy Bus,12
+2003, عجمــــــــــان,Ajman,حافلة ثقيلة,Heavy Bus,4
+2003, أم القيويــــن,Umm Al - Qiwain,حافلة ثقيلة,Heavy Bus,2
+2003, رأس الخيمــة,Ras Al - Khaima,حافلة ثقيلة,Heavy Bus,2
+2003, الفجيــــــــــرة,Fujeira,حافلة ثقيلة,Heavy Bus,1
+2003, أبو ظـــــبي ,Abu  Dhabi,شاحنة خفيفة,Light Goods Vehicle,318
+2003, دبـــــــــــــي,Dubai,شاحنة خفيفة,Light Goods Vehicle,81
+2003, الشــــارقــــة,Sharjah,شاحنة خفيفة,Light Goods Vehicle,87
+2003, عجمــــــــــان,Ajman,شاحنة خفيفة,Light Goods Vehicle,1
+2003, أم القيويــــن,Umm Al - Qiwain,شاحنة خفيفة,Light Goods Vehicle,12
+2003, رأس الخيمــة,Ras Al - Khaima,شاحنة خفيفة,Light Goods Vehicle,35
+2003, الفجيــــــــــرة,Fujeira,شاحنة خفيفة,Light Goods Vehicle,21
+2003, أبو ظـــــبي ,Abu  Dhabi,شاحنة ثقيلة,Heavy Goods Vehicle,412
+2003, دبـــــــــــــي,Dubai,شاحنة ثقيلة,Heavy Goods Vehicle,66
+2003, الشــــارقــــة,Sharjah,شاحنة ثقيلة,Heavy Goods Vehicle,92
+2003, عجمــــــــــان,Ajman,شاحنة ثقيلة,Heavy Goods Vehicle,4
+2003, أم القيويــــن,Umm Al - Qiwain,شاحنة ثقيلة,Heavy Goods Vehicle,13
+2003, رأس الخيمــة,Ras Al - Khaima,شاحنة ثقيلة,Heavy Goods Vehicle,61
+2003, الفجيــــــــــرة,Fujeira,شاحنة ثقيلة,Heavy Goods Vehicle,18
+2003, أبو ظـــــبي ,Abu  Dhabi,أخرى (ثقيل),Other Heavy,95
+2003, دبـــــــــــــي,Dubai,أخرى (ثقيل),Other Heavy,16
+2003, الشــــارقــــة,Sharjah,أخرى (ثقيل),Other Heavy,12
+2003, عجمــــــــــان,Ajman,أخرى (ثقيل),Other Heavy,0
+2003, أم القيويــــن,Umm Al - Qiwain,أخرى (ثقيل),Other Heavy,1
+2003, رأس الخيمــة,Ras Al - Khaima,أخرى (ثقيل),Other Heavy,0
+2003, الفجيــــــــــرة,Fujeira,أخرى (ثقيل),Other Heavy,11
+2003, أبو ظـــــبي ,Abu  Dhabi,دراجة هوائية,Bicycle,93
+2003, دبـــــــــــــي,Dubai,دراجة هوائية,Bicycle,32
+2003, الشــــارقــــة,Sharjah,دراجة هوائية,Bicycle,20
+2003, عجمــــــــــان,Ajman,دراجة هوائية,Bicycle,6
+2003, أم القيويــــن,Umm Al - Qiwain,دراجة هوائية,Bicycle,2
+2003, رأس الخيمــة,Ras Al - Khaima,دراجة هوائية,Bicycle,6
+2003, الفجيــــــــــرة,Fujeira,دراجة هوائية,Bicycle,2
+2003, أبو ظـــــبي ,Abu  Dhabi,دراجة نارية,Motorcycle,123
+2003, دبـــــــــــــي,Dubai,دراجة نارية,Motorcycle,38
+2003, الشــــارقــــة,Sharjah,دراجة نارية,Motorcycle,34
+2003, عجمــــــــــان,Ajman,دراجة نارية,Motorcycle,3
+2003, أم القيويــــن,Umm Al - Qiwain,دراجة نارية,Motorcycle,7
+2003, رأس الخيمــة,Ras Al - Khaima,دراجة نارية,Motorcycle,47
+2003, الفجيــــــــــرة,Fujeira,دراجة نارية,Motorcycle,9
+2005, أبو ظـــــبي ,Abu  Dhabi,مركبة خصوصية,Private Saloon,1659
+2005, دبـــــــــــــي,Dubai,مركبة خصوصية,Private Saloon,1089
+2005, الشــــارقــــة,Sharjah,مركبة خصوصية,Private Saloon,1907
+2005, عجمــــــــــان,Ajman,مركبة خصوصية,Private Saloon,279
+2005, أم القيويــــن,Umm Al - Qiwain,مركبة خصوصية,Private Saloon,340
+2005, رأس الخيمــة,Ras Al - Khaima,مركبة خصوصية,Private Saloon,767
+2005, الفجيــــــــــرة,Fujeira,مركبة خصوصية,Private Saloon,205
+2005, أبو ظـــــبي ,Abu  Dhabi,مركبة أجرة,Taxi,38
+2005, دبـــــــــــــي,Dubai,مركبة أجرة,Taxi,49
+2005, الشــــارقــــة,Sharjah,مركبة أجرة,Taxi,70
+2005, عجمــــــــــان,Ajman,مركبة أجرة,Taxi,26
+2005, أم القيويــــن,Umm Al - Qiwain,مركبة أجرة,Taxi,0
+2005, رأس الخيمــة,Ras Al - Khaima,مركبة أجرة,Taxi,8
+2005, الفجيــــــــــرة,Fujeira,مركبة أجرة,Taxi,0
+2005, أبو ظـــــبي ,Abu  Dhabi,حافلة خفيفة,Light Bus,35
+2005, دبـــــــــــــي,Dubai,حافلة خفيفة,Light Bus,71
+2005, الشــــارقــــة,Sharjah,حافلة خفيفة,Light Bus,11
+2005, عجمــــــــــان,Ajman,حافلة خفيفة,Light Bus,8
+2005, أم القيويــــن,Umm Al - Qiwain,حافلة خفيفة,Light Bus,7
+2005, رأس الخيمــة,Ras Al - Khaima,حافلة خفيفة,Light Bus,5
+2005, الفجيــــــــــرة,Fujeira,حافلة خفيفة,Light Bus,5
+2005, أبو ظـــــبي ,Abu  Dhabi,حافلة ثقيلة,Heavy Bus,8
+2005, دبـــــــــــــي,Dubai,حافلة ثقيلة,Heavy Bus,48
+2005, الشــــارقــــة,Sharjah,حافلة ثقيلة,Heavy Bus,10
+2005, عجمــــــــــان,Ajman,حافلة ثقيلة,Heavy Bus,3
+2005, أم القيويــــن,Umm Al - Qiwain,حافلة ثقيلة,Heavy Bus,0
+2005, رأس الخيمــة,Ras Al - Khaima,حافلة ثقيلة,Heavy Bus,0
+2005, الفجيــــــــــرة,Fujeira,حافلة ثقيلة,Heavy Bus,1
+2005, أبو ظـــــبي ,Abu  Dhabi,شاحنة خفيفة,Light Goods Vehicle,255
+2005, دبـــــــــــــي,Dubai,شاحنة خفيفة,Light Goods Vehicle,103
+2005, الشــــارقــــة,Sharjah,شاحنة خفيفة,Light Goods Vehicle,72
+2005, عجمــــــــــان,Ajman,شاحنة خفيفة,Light Goods Vehicle,3
+2005, أم القيويــــن,Umm Al - Qiwain,شاحنة خفيفة,Light Goods Vehicle,8
+2005, رأس الخيمــة,Ras Al - Khaima,شاحنة خفيفة,Light Goods Vehicle,3
+2005, الفجيــــــــــرة,Fujeira,شاحنة خفيفة,Light Goods Vehicle,19
+2005, أبو ظـــــبي ,Abu  Dhabi,شاحنة ثقيلة,Heavy Goods Vehicle,211
+2005, دبـــــــــــــي,Dubai,شاحنة ثقيلة,Heavy Goods Vehicle,97
+2005, الشــــارقــــة,Sharjah,شاحنة ثقيلة,Heavy Goods Vehicle,107
+2005, عجمــــــــــان,Ajman,شاحنة ثقيلة,Heavy Goods Vehicle,12
+2005, أم القيويــــن,Umm Al - Qiwain,شاحنة ثقيلة,Heavy Goods Vehicle,22
+2005, رأس الخيمــة,Ras Al - Khaima,شاحنة ثقيلة,Heavy Goods Vehicle,55
+2005, الفجيــــــــــرة,Fujeira,شاحنة ثقيلة,Heavy Goods Vehicle,22
+2005, أبو ظـــــبي ,Abu  Dhabi,أخرى (ثقيل),Other Heavy,144
+2005, دبـــــــــــــي,Dubai,أخرى (ثقيل),Other Heavy,22
+2005, الشــــارقــــة,Sharjah,أخرى (ثقيل),Other Heavy,17
+2005, عجمــــــــــان,Ajman,أخرى (ثقيل),Other Heavy,1
+2005, أم القيويــــن,Umm Al - Qiwain,أخرى (ثقيل),Other Heavy,3
+2005, رأس الخيمــة,Ras Al - Khaima,أخرى (ثقيل),Other Heavy,0
+2005, الفجيــــــــــرة,Fujeira,أخرى (ثقيل),Other Heavy,12
+2005, أبو ظـــــبي ,Abu  Dhabi,دراجة هوائية,Bicycle,29
+2005, دبـــــــــــــي,Dubai,دراجة هوائية,Bicycle,25
+2005, الشــــارقــــة,Sharjah,دراجة هوائية,Bicycle,39
+2005, عجمــــــــــان,Ajman,دراجة هوائية,Bicycle,8
+2005, أم القيويــــن,Umm Al - Qiwain,دراجة هوائية,Bicycle,2
+2005, رأس الخيمــة,Ras Al - Khaima,دراجة هوائية,Bicycle,11
+2005, الفجيــــــــــرة,Fujeira,دراجة هوائية,Bicycle,5
+2005, أبو ظـــــبي ,Abu  Dhabi,دراجة نارية,Motorcycle,85
+2005, دبـــــــــــــي,Dubai,دراجة نارية,Motorcycle,62
+2005, الشــــارقــــة,Sharjah,دراجة نارية,Motorcycle,52
+2005, عجمــــــــــان,Ajman,دراجة نارية,Motorcycle,1
+2005, أم القيويــــن,Umm Al - Qiwain,دراجة نارية,Motorcycle,5
+2005, رأس الخيمــة,Ras Al - Khaima,دراجة نارية,Motorcycle,76
+2005, الفجيــــــــــرة,Fujeira,دراجة نارية,Motorcycle,17
+2007, أبو ظـــــبي ,Abu  Dhabi,مركبة خصوصية,Private Saloon,2250
+2007, دبـــــــــــــي,Dubai,مركبة خصوصية,Private Saloon,977
+2007, الشــــارقــــة,Sharjah,مركبة خصوصية,Private Saloon,1573
+2007, عجمــــــــــان,Ajman,مركبة خصوصية,Private Saloon,279
+2007, أم القيويــــن,Umm Al - Qiwain,مركبة خصوصية,Private Saloon,505
+2007, رأس الخيمــة,Ras Al - Khaima,مركبة خصوصية,Private Saloon,782
+2007, الفجيــــــــــرة,Fujeira,مركبة خصوصية,Private Saloon,422
+2007, أبو ظـــــبي ,Abu  Dhabi,مركبة أجرة,Taxi,0
+2007, دبـــــــــــــي,Dubai,مركبة أجرة,Taxi,83
+2007, الشــــارقــــة,Sharjah,مركبة أجرة,Taxi,53
+2007, عجمــــــــــان,Ajman,مركبة أجرة,Taxi,15
+2007, أم القيويــــن,Umm Al - Qiwain,مركبة أجرة,Taxi,0
+2007, رأس الخيمــة,Ras Al - Khaima,مركبة أجرة,Taxi,3
+2007, الفجيــــــــــرة,Fujeira,مركبة أجرة,Taxi,0
+2007, أبو ظـــــبي ,Abu  Dhabi,حافلة خفيفة,Light Bus,18
+2007, دبـــــــــــــي,Dubai,حافلة خفيفة,Light Bus,112
+2007, الشــــارقــــة,Sharjah,حافلة خفيفة,Light Bus,25
+2007, عجمــــــــــان,Ajman,حافلة خفيفة,Light Bus,19
+2007, أم القيويــــن,Umm Al - Qiwain,حافلة خفيفة,Light Bus,9
+2007, رأس الخيمــة,Ras Al - Khaima,حافلة خفيفة,Light Bus,3
+2007, الفجيــــــــــرة,Fujeira,حافلة خفيفة,Light Bus,3
+2007, أبو ظـــــبي ,Abu  Dhabi,حافلة ثقيلة,Heavy Bus,39
+2007, دبـــــــــــــي,Dubai,حافلة ثقيلة,Heavy Bus,72
+2007, الشــــارقــــة,Sharjah,حافلة ثقيلة,Heavy Bus,11
+2007, عجمــــــــــان,Ajman,حافلة ثقيلة,Heavy Bus,7
+2007, أم القيويــــن,Umm Al - Qiwain,حافلة ثقيلة,Heavy Bus,2
+2007, رأس الخيمــة,Ras Al - Khaima,حافلة ثقيلة,Heavy Bus,5
+2007, الفجيــــــــــرة,Fujeira,حافلة ثقيلة,Heavy Bus,11
+2007, أبو ظـــــبي ,Abu  Dhabi,شاحنة خفيفة,Light Goods Vehicle,30
+2007, دبـــــــــــــي,Dubai,شاحنة خفيفة,Light Goods Vehicle,163
+2007, الشــــارقــــة,Sharjah,شاحنة خفيفة,Light Goods Vehicle,98
+2007, عجمــــــــــان,Ajman,شاحنة خفيفة,Light Goods Vehicle,3
+2007, أم القيويــــن,Umm Al - Qiwain,شاحنة خفيفة,Light Goods Vehicle,19
+2007, رأس الخيمــة,Ras Al - Khaima,شاحنة خفيفة,Light Goods Vehicle,15
+2007, الفجيــــــــــرة,Fujeira,شاحنة خفيفة,Light Goods Vehicle,26
+2007, أبو ظـــــبي ,Abu  Dhabi,شاحنة ثقيلة,Heavy Goods Vehicle,127
+2007, دبـــــــــــــي,Dubai,شاحنة ثقيلة,Heavy Goods Vehicle,135
+2007, الشــــارقــــة,Sharjah,شاحنة ثقيلة,Heavy Goods Vehicle,106
+2007, عجمــــــــــان,Ajman,شاحنة ثقيلة,Heavy Goods Vehicle,6
+2007, أم القيويــــن,Umm Al - Qiwain,شاحنة ثقيلة,Heavy Goods Vehicle,52
+2007, رأس الخيمــة,Ras Al - Khaima,شاحنة ثقيلة,Heavy Goods Vehicle,69
+2007, الفجيــــــــــرة,Fujeira,شاحنة ثقيلة,Heavy Goods Vehicle,40
+2007, أبو ظـــــبي ,Abu  Dhabi,أخرى (ثقيل),Other Heavy,149
+2007, دبـــــــــــــي,Dubai,أخرى (ثقيل),Other Heavy,17
+2007, الشــــارقــــة,Sharjah,أخرى (ثقيل),Other Heavy,20
+2007, عجمــــــــــان,Ajman,أخرى (ثقيل),Other Heavy,7
+2007, أم القيويــــن,Umm Al - Qiwain,أخرى (ثقيل),Other Heavy,0
+2007, رأس الخيمــة,Ras Al - Khaima,أخرى (ثقيل),Other Heavy,0
+2007, الفجيــــــــــرة,Fujeira,أخرى (ثقيل),Other Heavy,18
+2007, أبو ظـــــبي ,Abu  Dhabi,دراجة هوائية,Bicycle,0
+2007, دبـــــــــــــي,Dubai,دراجة هوائية,Bicycle,34
+2007, الشــــارقــــة,Sharjah,دراجة هوائية,Bicycle,37
+2007, عجمــــــــــان,Ajman,دراجة هوائية,Bicycle,6
+2007, أم القيويــــن,Umm Al - Qiwain,دراجة هوائية,Bicycle,1
+2007, رأس الخيمــة,Ras Al - Khaima,دراجة هوائية,Bicycle,8
+2007, الفجيــــــــــرة,Fujeira,دراجة هوائية,Bicycle,9
+2007, أبو ظـــــبي ,Abu  Dhabi,دراجة نارية,Motorcycle,80
+2007, دبـــــــــــــي,Dubai,دراجة نارية,Motorcycle,85
+2007, الشــــارقــــة,Sharjah,دراجة نارية,Motorcycle,52
+2007, عجمــــــــــان,Ajman,دراجة نارية,Motorcycle,3
+2007, أم القيويــــن,Umm Al - Qiwain,دراجة نارية,Motorcycle,10
+2007, رأس الخيمــة,Ras Al - Khaima,دراجة نارية,Motorcycle,73
+2007, الفجيــــــــــرة,Fujeira,دراجة نارية,Motorcycle,52
